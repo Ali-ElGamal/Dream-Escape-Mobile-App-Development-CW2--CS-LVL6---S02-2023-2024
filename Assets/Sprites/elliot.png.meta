@@ -1,0 +1,4151 @@
+fileFormatVersion: 2
+guid: ca9c665690e7484439503db48c07cdcb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elliot_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1053
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1645ce62dd0b14946aad256d9db07455
+      internalID: 616564359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1053
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1798d8b54b16c4d92396c8811babb8
+      internalID: -1322855189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 952
+        width: 27
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4de7c732022ea943b24b75c10eaee0c
+      internalID: 78648339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 954
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ffb8437b43284b9b5479d337d12be
+      internalID: -747091523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 955
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0b59504b1cd254489595b8cf97718e
+      internalID: -901944396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 938
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f697ab8d0364c46a83c300bb098a2e
+      internalID: -740044815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 938
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9f010cd153151449abc8fd9ab84b72
+      internalID: -2147398805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 938
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07564595c2d3d7f45a2912c4ee51b748
+      internalID: 25401051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 936
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8f0dd0799a9e848911ab9bee5a530b
+      internalID: 686822946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 938
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615bef94ad6d8c444bd107a527c29fd6
+      internalID: 777306162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 827
+        width: 40
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c4d434ad91ce4ba1df01f43c082f0
+      internalID: -2100271499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 827
+        width: 39
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2d1ea54e31324dbfe3b5c7eab7041
+      internalID: -1653023660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 827
+        width: 24
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ed0c8f8dee70447b636b4d37d76acc
+      internalID: -1814406209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 813
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9fe35db3923e24b87a8b7ee8a90387
+      internalID: -201902085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 813
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71de1aeb4c6b3459a46b41d372d0df
+      internalID: -658947911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 813
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f226823ffd4d45a6ca59f50c92667
+      internalID: 1041968868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 813
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91e3c09a94d6ba438402e9aa43fa1b0
+      internalID: -573626263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 811
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3774461dc1bbf74a89dd92a6af7f19c
+      internalID: 662741383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 712
+        width: 27
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d99cdc9764b4f4c895f226edde8488
+      internalID: -1152797884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 712
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dfecca5e80a2941abd32ceeed935c2
+      internalID: -1223787214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 713
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890b93836135ab0439f87e984eb8ef0d
+      internalID: -585427227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 713
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e850b39eca3ac46a8ff39ff0f279f2
+      internalID: -362503110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 714
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae745e38765a9f046bbc60df5f4b1998
+      internalID: -1289759490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 714
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f517d7cd84d6c5d45814de24b8f3ea91
+      internalID: 697765145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_24
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 713
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b848a0b93d9aa44bb9b02d9a1a5f6e
+      internalID: -2140787881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_25
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 713
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb731e242dfc424981d8590a065b7c6
+      internalID: 2097271318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_26
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 713
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38213d10c3668e84d8fea7df53c593d9
+      internalID: 986914335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_27
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 712
+        width: 37
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5dfcafe6fa5804091b1b5e31c0dde8
+      internalID: 1220124129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 613
+        width: 28
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece8e8ffbf186684baf9673906d4f1ce
+      internalID: 617938298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 613
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d2c26b915e7a44894c5b8ee1ee07f
+      internalID: -1333212916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 613
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c7358278db354e81a08abc677d454
+      internalID: 1370403575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_31
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 613
+        width: 52
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898066bede40f164ebe9024f498779fd
+      internalID: -928734025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 614
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e5e94bc789c5345a7410ada826a17c
+      internalID: -1403588135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 614
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af88b75b6599ea41b375d43ac50c97f
+      internalID: 1387078393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_34
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 613
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20d8321d514c9443b8ae1ebb5d81c35
+      internalID: 1641177627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 614
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fee064eb7ebaa419ae7682b8fd4102
+      internalID: 204876646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_36
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 613
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecde06923483fd418eaa55e395a42de
+      internalID: -1431981725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_37
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 613
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f497071201579ec46bc49bed9328ed04
+      internalID: 1321196532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 599
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0f58d7fd4a547488c35d68e9898805
+      internalID: -1839314324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 599
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca6cc6db338e634380ad3ae1439ea9d
+      internalID: -397737338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 599
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7e0832940212e4695baedf853650dc
+      internalID: -1765308664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 599
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7470bc21d4fe1424da7117e33472d2ce
+      internalID: -1527960684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 597
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad356e5908761c43aa2927caf19f9de
+      internalID: 832475133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_43
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 599
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aab91c86d6935458fe594f53dcdda0
+      internalID: 1984613509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 599
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa6d40a7d3f3984b85caaaab9d2cadd
+      internalID: 1002269029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 599
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ab71aa4040354782b0fc248233994
+      internalID: -879432612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 499
+        width: 32
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4942c4303a435a47a510b7c9be4451a
+      internalID: 49712044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 499
+        width: 32
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5fe3503e94dd14680ed26f598071ea
+      internalID: 1843276082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_48
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 499
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a2747af2225f141a9673ad5bc9a30b
+      internalID: 723100463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 499
+        width: 29
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c03eaaba480ee45883555718fac588
+      internalID: -448674141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 499
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd3282687a738347a71decb7ee466af
+      internalID: -328535072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_51
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 499
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8ff37ac8fbcbb44915931bd7dbe255
+      internalID: -1511348039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_52
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 499
+        width: 30
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7581e0dc327964a8124eb3a2d1fa85
+      internalID: -1923068021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_53
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 499
+        width: 30
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed0f4fa3e3d9741aef22cf5603251a
+      internalID: 32082550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 499
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b911cabd8eef1ab4f871b22bf6919471
+      internalID: -168144101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_55
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 499
+        width: 31
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8921b4a8a49d7b74d88c37abb106ebce
+      internalID: -187321472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 499
+        width: 32
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab0d2687d4b3a746b83a7f26b5125c1
+      internalID: 334357830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 499
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b668c058d983e4b96ab1cf27ded745
+      internalID: 1026309254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 485
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce33af7c7040d64fb5edcf348688f0c
+      internalID: 257749139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 485
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b094a767a225ed041b358c01e6611b35
+      internalID: 1219153662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 485
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881bfa8e76cff3b4c9e892c3b3c5b219
+      internalID: -78309016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_61
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 485
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6785c15d65b6dc43ba48d075626e54b
+      internalID: 798668403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 483
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b74f216eaf987b45bc04cb6b9885dab
+      internalID: 180313718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_63
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 485
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6abcb33887f6bf46a17da4ea4c40b66
+      internalID: -1852156528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 485
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c419d05daa54d2498fac092a135a800
+      internalID: -1003915622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 485
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac2dc9573ed7d94bb90d5c3c329ff88
+      internalID: 1068868400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_66
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 485
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45642d8794fc724bae6aa6548c146c1
+      internalID: 1302555786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 386
+        width: 31
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d18e1ffa9894b458ca19543cd0444a
+      internalID: -2057161805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 387
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea789c029c3333748a4af1f5cf8e4005
+      internalID: 1346861059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_69
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 388
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2501b456f301555439b00aac642ab84b
+      internalID: 241023324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_70
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 388
+        width: 29
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f25a0c0d1ec0428b2294bb31856c4
+      internalID: 364278892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_71
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 388
+        width: 31
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9726af44bb7ad4f9150c77a2a92cbe
+      internalID: -1022709892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_72
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 388
+        width: 31
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b5c2079955e7c4090019a1c5b9075a
+      internalID: -726699722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_73
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 386
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68571642e897ed4782b441693bea4f5
+      internalID: 491852155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 387
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc339561f6d43b4481d9eabb669f7da
+      internalID: 1905814078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_75
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 387
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb22f8ed8f04f842beb23181573ad69
+      internalID: -71149246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_76
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 388
+        width: 31
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dd55a3a5c1faf4b8f14166cb483621
+      internalID: 723854460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_77
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 388
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028843ef8144ca74ca2d1dd01d13f322
+      internalID: 1887707061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_78
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 386
+        width: 32
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa9ecb9b1b29f9449541dbc311a94d4
+      internalID: 1447416822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 372
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d80d63abe07fc4ead301588f6307fd
+      internalID: -1516859337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 372
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd1c3efdcf5c6a41a98a96e499bf39e
+      internalID: -1752747723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 372
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5763359d5cc944a4194ad3db201aae82
+      internalID: 873742259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_82
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 372
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9cdf2f8900253439c37b4e94755abe
+      internalID: 927228790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_83
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 372
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d74abded22944741be65320093165d8
+      internalID: -1268463502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 276
+        width: 28
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ba41d21eebf7f4f962de433586220a
+      internalID: -1720866536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 276
+        width: 31
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de40897541776943a2eb23e7189d6e9
+      internalID: -1271642601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_86
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 276
+        width: 33
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6beea3b0acaa794e9390a13e27aaedd
+      internalID: -1613038706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_87
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 276
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200c2fd39e77df24b976644bcf0b0a99
+      internalID: 877462560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_88
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 276
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1470bbd5fe7cd94d859e3d1c5f661e8
+      internalID: -630237377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_89
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 276
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03e12289f761dc4b88fcd3037c410c8
+      internalID: -1249552554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 262
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414ae58b815327f43bfed915586f3f20
+      internalID: -182304426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_91
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 262
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb779a164a4d09d4a8c47b6e87969e86
+      internalID: 1952208233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_92
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 262
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4783988e285a55a4c98ad312abbb4ccc
+      internalID: 969440176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_93
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 262
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ac5f96fac94454fa4e6c1ecdc31842
+      internalID: 1514703129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_94
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 260
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d5879a7b8271e47bc8f3b7acc2a51f
+      internalID: -1791408658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 25
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8379409ce0929b4e86017eed6478fcc
+      internalID: 1980133505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_96
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 163
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13a5d4e2eaf3d940856630d0d04fa7c
+      internalID: -606727549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_97
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 165
+        width: 29
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5fe78324a250e4bb712dea51d83dda
+      internalID: -102970633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_98
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 164
+        width: 34
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37328e7e6084b5e47aa9ffd4b6428038
+      internalID: 322510233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_99
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 161
+        width: 23
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e72b5e5dd1c7c14d9ebf53550f048cc
+      internalID: 1662425241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_100
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 26
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482905225bfeb6e42ae39e06757b4b53
+      internalID: -893511756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 162
+        width: 28
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544c4035a908775499335f2ed12e8217
+      internalID: 492929299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_102
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 163
+        width: 29
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a96ee7dd3b6e4f9f96d460ff135e0
+      internalID: -1059994652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_103
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 164
+        width: 22
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461a38d6655002f42a7044b319ea6b4c
+      internalID: -1010760183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_104
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 165
+        width: 24
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1e71cc383770c4c96d457122b5d339
+      internalID: -388283405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_105
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 165
+        width: 31
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47af4fe5d6f68084aafa8db51ba37024
+      internalID: 1460421730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_106
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 165
+        width: 29
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d262b3e4e8830499d6faebdc59240d
+      internalID: 638216058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 147
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6facfc0d184c8489870b31c098f0f6
+      internalID: 173421509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_108
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 147
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23ceee7511a43340875081c4c3ed458
+      internalID: -824812203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_109
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 147
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2305810d920d90e499cf1ff615a0e3ee
+      internalID: -109732713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_110
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 147
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929be11c8618874f8363f20ee483f03
+      internalID: -1804642044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_111
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 147
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635793c5f7bd7004390093166da16db7
+      internalID: -619813744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_112
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 147
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ba39e367ef1c4ba4d53b9029d7345
+      internalID: -30539921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_113
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 147
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4960a3341dc419a45b3645c96caaeea5
+      internalID: -484604206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_114
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 118
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e291526a65420034d89e1afe0dac8753
+      internalID: -1883239047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_115
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 117
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaab38821cf2634bbafdac294edf1f4
+      internalID: 1606224450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_116
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 117
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f3a3289f7cdd5489b36bf40fbc70a2
+      internalID: -1490595290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_117
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70cb42ee23efaa40a9caabe31a31a8e
+      internalID: 542714826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_118
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 117
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0229c1ac666ad4e8d04c7e80b596e0
+      internalID: -1527118141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_119
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 117
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d48506f24682e468251696cb351002
+      internalID: 2128101937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_120
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 117
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d4651ffa6c15b4ba919843fb9835fe
+      internalID: -1474479540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_121
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 118
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378c0b3db95a6e6459a9a573610dd1e0
+      internalID: -430425949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_122
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 119
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c241b1c655dd94ea39ebb3679ef357
+      internalID: -1226960789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_123
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 118
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f450de3d29768414c8f322a3373ca1c2
+      internalID: -1483036050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_124
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 118
+        width: 67
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445bbda0e10ea374c8b0805c44c756ab
+      internalID: -1848977838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_125
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 118
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce169eb04503ac45aa5ec09e9c47a08
+      internalID: -776808681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_126
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 86
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6335fe3c1a73a429d82e9215bf1b91
+      internalID: 1143145585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_127
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 86
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58b8f8d2d05ecf4fbcd2847384eed90
+      internalID: -1927086724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_128
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 86
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1dbe92072f5a469db884ad783af3b
+      internalID: -823043077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_129
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 87
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a5b5ccf708c1c4c9f3edc6e1a6987a
+      internalID: -1013949260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_130
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 86
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10edb18e92340ce42934791debe8d3b8
+      internalID: -1999831376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_131
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 87
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42270de7b0414346aafb623d0fd1005
+      internalID: -1215052954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_132
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 86
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2444c82ab995b48b053c3e123fc72e
+      internalID: 629520089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_133
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 86
+        width: 68
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e3d9eadc8ffa8439eac2b05674274e
+      internalID: -2099753124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_134
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 87
+        width: 67
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8cacdeddfa57843b963b37471163eb
+      internalID: 1919572955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_135
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 87
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e91ccaa8bb921428a5cf2707eeb0ad
+      internalID: 280962619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_136
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 86
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24cf04a1c107af4d9686e3c2b2fb35c
+      internalID: -2044814659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_137
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 58
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340888626a3f3714c8dd79e45d7fa673
+      internalID: 83288600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_138
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 59
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2910a821fc037be4eaa51f222412af17
+      internalID: -1713060927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_139
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 60
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca00eb022d53f84faf134e90d7c4012
+      internalID: -1126599039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_140
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae14ef184df34d41a28816909e98640
+      internalID: -1217852990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_141
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 63
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04887a96b77d4044bb8c84938ee7a76a
+      internalID: 1917881372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_142
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 65
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd320728ac511740a2852ba02c99a9a
+      internalID: 2081919277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_143
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 67
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b475a814f4a3448a7c98721a95ab90
+      internalID: 1853783558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_144
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 58
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46c01db0440cbd4ab696225f484c461
+      internalID: -485037841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_145
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 59
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feef092d314284e4b9c451de3ee719f4
+      internalID: 1928530700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_146
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 60
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e4b8475f23680498c77bea2a2ab5b5
+      internalID: 151869823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_147
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 59
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8152fd9428c3a04f8436906a25d1b05
+      internalID: -1970638838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_148
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 58
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d24d5d1b0ff57945b361c64257f8f42
+      internalID: 1017508477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_149
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 58
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4fcf7014f5a334aac6bec725ca7980
+      internalID: 1375413359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_150
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 59
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b34b08122ca7484fb1655f0660dffe0
+      internalID: -44756051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_151
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 59
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55b7c04c603aeb4690c438b10ddefb9
+      internalID: -201363291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_152
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 58
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be1f0504324134db6f04921a2d98bb
+      internalID: -1936603417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_153
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 31
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87d5820f521dcc49b622c6b9f4c0909
+      internalID: 2019605637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_154
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 31
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b46e1883e469409d362e3efd9f895
+      internalID: -1001754936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_155
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 30
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7936441250396264c958ef4174b6ca06
+      internalID: -191969787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_156
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 31
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b6b1cae49f4504ea6df780d12a4021
+      internalID: -1698361290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_157
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 31
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fa6ffba81346e4c88a7dfaa458500b
+      internalID: -1622383800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_158
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 30
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e65316ed110b004980f67932d5053c9
+      internalID: 1845641271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_159
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 30
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a18955674b00f94e95458ee3c1efdf2
+      internalID: 1261535463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_160
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 31
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8139e92d537d7784287f40bbab10e56f
+      internalID: 1505037461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_161
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 30
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e5525bca10f7243afdb1c971127e7d
+      internalID: 657231789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_162
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 31
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ded159298cc448b9e1a1336124cb5
+      internalID: -449762024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_163
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 30
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99e4e812c0ab0c459c41a05a29bf3ca
+      internalID: 797874987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_164
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 31
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee0bde08c4c22843b692881c3f607f8
+      internalID: 984819240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_165
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 31
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b0e44e750fba74a9a03e9aab14b87d
+      internalID: -1908643108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_166
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 32
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65bb01c1fbbb7c42a6f52bacda8d253
+      internalID: 191712269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_167
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 31
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec3855b8d18d14b932b9279d88bdfa
+      internalID: 1085191449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_168
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 32
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3c7a5ff2912dd43bb591411a575fc7
+      internalID: 430100945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_169
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 32
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc57b9a2ed19c640862f0471e9b2959
+      internalID: 1820304931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_170
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 31
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67d541b49433974f825f4ed8975134b
+      internalID: -1716052349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_171
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668454e3406e538479599df9be772912
+      internalID: -339866790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_172
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa92e765eed7f2945971f7b46f0cad25
+      internalID: 941892291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b498770b63a0bd4c82a755ee3d63404
+      internalID: -171249068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_174
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48cd3c3db138444ab5eee1e5b3780c7
+      internalID: 1744873093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_175
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd70113cce5d003448f6748e70eda695
+      internalID: 352339414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_176
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaeca17bea1b9f4d9531d708847003a
+      internalID: -327854871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_177
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e248912bafa5f1b478848af9e95c86ab
+      internalID: -2027222047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_178
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c6df47627337b46b41eaa36b4a5558
+      internalID: 436674695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_179
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2e6fbb98a4ec642b547cb87a715820
+      internalID: 488350917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_180
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 4
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33009e6354a4c474f8defd907b2bfe90
+      internalID: 1444477526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elliot_181
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcdfb83829757b438f276a6abec2a72
+      internalID: 1812746571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      elliot_175: 352339414
+      elliot_79: -1516859337
+      elliot_4: -901944396
+      elliot_67: -2057161805
+      elliot_45: -879432612
+      elliot_32: -1403588135
+      elliot_93: 1514703129
+      elliot_117: 542714826
+      elliot_151: -201363291
+      elliot_11: -1653023660
+      elliot_131: -1215052954
+      elliot_7: 25401051
+      elliot_156: -1698361290
+      elliot_168: 430100945
+      elliot_54: -168144101
+      elliot_141: 1917881372
+      elliot_82: 927228790
+      elliot_56: 334357830
+      elliot_128: -823043077
+      elliot_118: -1527118141
+      elliot_115: 1606224450
+      elliot_33: 1387078393
+      elliot_24: -2140787881
+      elliot_55: -187321472
+      elliot_20: -585427227
+      elliot_169: 1820304931
+      elliot_130: -1999831376
+      elliot_104: -388283405
+      elliot_136: -2044814659
+      elliot_9: 777306162
+      elliot_177: -2027222047
+      elliot_2: 78648339
+      elliot_105: 1460421730
+      elliot_61: 798668403
+      elliot_47: 1843276082
+      elliot_134: 1919572955
+      elliot_75: -71149246
+      elliot_74: 1905814078
+      elliot_111: -619813744
+      elliot_107: 173421509
+      elliot_180: 1444477526
+      elliot_171: -339866790
+      elliot_87: 877462560
+      elliot_19: -1223787214
+      elliot_157: -1622383800
+      elliot_78: 1447416822
+      elliot_126: 1143145585
+      elliot_165: -1908643108
+      elliot_18: -1152797884
+      elliot_81: 873742259
+      elliot_29: -1333212916
+      elliot_21: -362503110
+      elliot_80: -1752747723
+      elliot_133: -2099753124
+      elliot_28: 617938298
+      elliot_97: -102970633
+      elliot_30: 1370403575
+      elliot_31: -928734025
+      elliot_22: -1289759490
+      elliot_48: 723100463
+      elliot_159: 1261535463
+      elliot_179: 488350917
+      elliot_120: -1474479540
+      elliot_72: -726699722
+      elliot_15: 1041968868
+      elliot_116: -1490595290
+      elliot_162: -449762024
+      elliot_49: -448674141
+      elliot_35: 204876646
+      elliot_57: 1026309254
+      elliot_27: 1220124129
+      elliot_44: 1002269029
+      elliot_155: -191969787
+      elliot_181: 1812746571
+      elliot_10: -2100271499
+      elliot_77: 1887707061
+      elliot_100: -893511756
+      elliot_23: 697765145
+      elliot_84: -1720866536
+      elliot_164: 984819240
+      elliot_123: -1483036050
+      elliot_114: -1883239047
+      elliot_43: 1984613509
+      elliot_148: 1017508477
+      elliot_1: -1322855189
+      elliot_6: -2147398805
+      elliot_41: -1527960684
+      elliot_167: 1085191449
+      elliot_137: 83288600
+      elliot_142: 2081919277
+      elliot_68: 1346861059
+      elliot_8: 686822946
+      elliot_25: 2097271318
+      elliot_121: -430425949
+      elliot_113: -484604206
+      elliot_149: 1375413359
+      elliot_176: -327854871
+      elliot_92: 969440176
+      elliot_65: 1068868400
+      elliot_98: 322510233
+      elliot_0: 616564359
+      elliot_112: -30539921
+      elliot_178: 436674695
+      elliot_125: -776808681
+      elliot_109: -109732713
+      elliot_96: -606727549
+      elliot_53: 32082550
+      elliot_69: 241023324
+      elliot_85: -1271642601
+      elliot_63: -1852156528
+      elliot_135: 280962619
+      elliot_36: -1431981725
+      elliot_76: 723854460
+      elliot_150: -44756051
+      elliot_170: -1716052349
+      elliot_132: 629520089
+      elliot_42: 832475133
+      elliot_173: -171249068
+      elliot_147: -1970638838
+      elliot_154: -1001754936
+      elliot_38: -1839314324
+      elliot_174: 1744873093
+      elliot_64: -1003915622
+      elliot_86: -1613038706
+      elliot_110: -1804642044
+      elliot_66: 1302555786
+      elliot_73: 491852155
+      elliot_26: 986914335
+      elliot_39: -397737338
+      elliot_103: -1010760183
+      elliot_101: 492929299
+      elliot_138: -1713060927
+      elliot_158: 1845641271
+      elliot_46: 49712044
+      elliot_51: -1511348039
+      elliot_94: -1791408658
+      elliot_106: 638216058
+      elliot_102: -1059994652
+      elliot_89: -1249552554
+      elliot_95: 1980133505
+      elliot_160: 1505037461
+      elliot_124: -1848977838
+      elliot_144: -485037841
+      elliot_122: -1226960789
+      elliot_59: 1219153662
+      elliot_88: -630237377
+      elliot_108: -824812203
+      elliot_3: -747091523
+      elliot_140: -1217852990
+      elliot_129: -1013949260
+      elliot_14: -658947911
+      elliot_16: -573626263
+      elliot_145: 1928530700
+      elliot_163: 797874987
+      elliot_99: 1662425241
+      elliot_119: 2128101937
+      elliot_83: -1268463502
+      elliot_172: 941892291
+      elliot_13: -201902085
+      elliot_58: 257749139
+      elliot_40: -1765308664
+      elliot_17: 662741383
+      elliot_34: 1641177627
+      elliot_50: -328535072
+      elliot_52: -1923068021
+      elliot_5: -740044815
+      elliot_70: 364278892
+      elliot_60: -78309016
+      elliot_127: -1927086724
+      elliot_37: 1321196532
+      elliot_91: 1952208233
+      elliot_166: 191712269
+      elliot_143: 1853783558
+      elliot_12: -1814406209
+      elliot_139: -1126599039
+      elliot_161: 657231789
+      elliot_90: -182304426
+      elliot_152: -1936603417
+      elliot_146: 151869823
+      elliot_62: 180313718
+      elliot_71: -1022709892
+      elliot_153: 2019605637
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

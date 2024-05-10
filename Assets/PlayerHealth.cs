@@ -1,11 +1,18 @@
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class PlayerHealth : MonoBehaviour
 {
     public int maxHealth = 100;
     public int currentHealth;
+    public Image healthBar;
+
     private Animator animator;
     private bool isDead = false;
+
+    public GameManager gameManager;
+    
 
     void Start()
     {
@@ -13,10 +20,17 @@ public class PlayerHealth : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
+    void Update()
+    {
+        healthBar.fillAmount = Mathf.Clamp((float)currentHealth / maxHealth, 0f, 1f);
+    }
+
     public void TakeDamage(int damage)
     {
         if (isDead)
             return; // Exit the function if the player is already dead
+
+        Debug.Log("Player taking damage!");
 
         currentHealth -= damage;
 
@@ -27,9 +41,7 @@ public class PlayerHealth : MonoBehaviour
         }
         else
         {
-            // Player is hurt but still alive
-            // Add logic to trigger hurt animation or perform any other actions
-
+            
             // Set the "Hurt" parameter in the animator if the conditions are met
             if (animator != null && animator.GetFloat("Speed") < 0.01f)
             {
@@ -41,6 +53,11 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
+    // Called from the hurt animation event to signify the end of the hurt animation
+    public void EndHurtAnimation()
+    {
+        animator.SetBool("HurtEnded", true);
+    }
     void Die()
     {
         if (isDead)
@@ -52,11 +69,29 @@ public class PlayerHealth : MonoBehaviour
         if (animator != null)
         {
             animator.SetBool("Death", true);
+            
         }
 
-        // Disable collider and this script
+        // Disable collider
         GetComponent<Collider2D>().enabled = false;
-        this.enabled = false;
+
+        
+
+        // Disable the Rigidbody2D component to prevent the player from falling infinitely
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+        if (rb != null)
+        {
+            rb.simulated = false;
+        }
+
+        // Call the gameOver() method from the GameManager
+        if (gameManager != null)
+        {
+            gameManager.gameOver();
+        }
+
+        // Freeze the scene by setting the time scale to 0
+        Time.timeScale = 0f;
 
         // For now, let's just log that the player died
         Debug.Log("Player died!");

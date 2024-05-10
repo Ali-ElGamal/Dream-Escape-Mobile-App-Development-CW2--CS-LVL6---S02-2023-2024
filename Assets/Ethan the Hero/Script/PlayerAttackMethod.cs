@@ -62,16 +62,16 @@ namespace EthanTheHero
 		private void BasicAttackCombo()
 		{
 			//Combo attack mechanic
-			if (Input.GetMouseButtonDown(0) && !myAnim.GetCurrentAnimatorStateInfo(0).IsName("Attack01") && !myAnim.GetCurrentAnimatorStateInfo(0).IsName("Attack02") && !myAnim.GetCurrentAnimatorStateInfo(0).IsName("Attack03") && playerMv.grounded)
+			if (Input.GetMouseButtonDown(1) && !myAnim.GetCurrentAnimatorStateInfo(0).IsName("Attack01") && !myAnim.GetCurrentAnimatorStateInfo(0).IsName("Attack02") && !myAnim.GetCurrentAnimatorStateInfo(0).IsName("Attack03") && playerMv.grounded)
 				myAnim.SetTrigger(attack01);
 
 			//Set combo attack 01 
 			if (myAnim.GetCurrentAnimatorStateInfo(0).IsName("Attack01"))
 			{
 				//See if attak button is clicked
-				if (Input.GetMouseButtonDown(0))
+				if (Input.GetMouseButtonDown(1))
 					atkButtonClickedOnAtk01 = true;
-
+				
 				//Set if attack 01 animation is ended playying and attack button is clicked while attack 01 animation is playing
 				if (myAnim.GetCurrentAnimatorStateInfo(0).normalizedTime >= .8 && atkButtonClickedOnAtk01)
 				{
@@ -88,7 +88,7 @@ namespace EthanTheHero
 			if (myAnim.GetCurrentAnimatorStateInfo(0).IsName("Attack02"))
 			{
 				//See if attak button is clicked
-				if (Input.GetMouseButtonDown(0))
+				if (Input.GetMouseButtonDown(1))
 					atkButtonClickedOnAtk02 = true;
 
 				//Set if attack 02 animation is ended playying and attack button is clicked while attack 02 animation is playing
@@ -107,7 +107,7 @@ namespace EthanTheHero
 			if (myAnim.GetCurrentAnimatorStateInfo(0).IsName("Attack03"))
 			{
 				//See if attak button is clicked
-				if (Input.GetMouseButtonDown(0))
+				if (Input.GetMouseButtonDown(1))
 					atkButtonClickedOnAtk03 = true;
 
 				//Set if attack 03 animation is ended playying and attack button is clicked while attack 03 animation is playing
